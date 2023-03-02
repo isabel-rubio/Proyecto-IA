@@ -1,11 +1,45 @@
-# Proyecto-IA
+# PROYECTO RIESGO DE INCUMPLIMIENTO CREDITICIO
 
 ## Miembros del grupo
-Aura Molina, CC 1006510913, Ingeniería Industrial
+- Aura Molina, CC 1006510913, Ingeniería Industrial
 
-Valeria González Gonzalez, CC 1000099730, Ingeniería Industrial
+- Valeria González Gonzalez, CC 1000099730, Ingeniería Industrial
 
-Maryely Isabel Rubio de la Cruz, CC 1116803015, Ingeniería Industrial
+- Maryely Isabel Rubio de la Cruz, CC 1116803015, Ingeniería Industrial
 
 ## Datos
-Los datos del proyecto vienen de La competición Kaggle Home Credit Default Risk, y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
+Los datos del proyecto vienen de la competencia de Kaggle [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk/overview), y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos:
+
+*1.* Iniciar sesión en Kaggle, generar New API Token y guardar este archivo.
+
+*2.* Leer el token de la API de kaggle para interactuar con su cuenta de kaggle.
+
+```
+from google.colab import files
+files.upload()
+```
+
+*3.* Instalar la biblioteca Kaggle.
+```
+! pip install kaggle
+```
+
+*4.* Hacer un directorio llamado “.kaggle”.
+```
+! mkdir ~/.kaggle
+```
+
+*5.* Copiar el "kaggle.json" en este nuevo directorio.
+```
+! cp kaggle.json ~/.kaggle/
+```
+
+*6.* Asignar el permiso requerido para este archivo.
+```
+! chmod 600 ~/.kaggle/kaggle.json
+```
+
+*7.* Descargar el Dataset de la competencia.
+```
+! kaggle competitions download home-credit-default-risk
+```
