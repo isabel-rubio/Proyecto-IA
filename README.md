@@ -43,3 +43,8 @@ files.upload()
 ```
 ! kaggle competitions download home-credit-default-risk
 ```
+
+*8.* Descomprimir el Dataset
+```
+! unzip home-credit-default-risk
+```
