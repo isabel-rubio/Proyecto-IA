@@ -42,8 +42,6 @@ files.upload()
 ! unzip home-credit-default-risk
 ```
 
-
-**** Enlace video avance segunda entrega
-```python
+[Video entrega dos]
 (https://youtu.be/n2YW2c68oC4)
-```
+
