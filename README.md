@@ -42,5 +42,5 @@ files.upload()
 ! unzip home-credit-default-risk
 ```
 
-[Video entrega dos]
-(https://youtu.be/n2YW2c68oC4)
+## Videos
+- [Video Entrega 2](https://youtu.be/n2YW2c68oC4)
