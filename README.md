@@ -43,7 +43,7 @@ files.upload()
 ```
 
 
-**** Enlace video avqance segunda entrega
+**** Enlace video avance segunda entrega
 ```python
 https://youtu.be/n2YW2c68oC4
 ```
