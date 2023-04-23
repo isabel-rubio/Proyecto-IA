@@ -42,3 +42,8 @@ files.upload()
 ! unzip home-credit-default-risk
 ```
 
+
+**** Enlace video avqance segunda entrega
+```python
+https://youtu.be/n2YW2c68oC4
+```
