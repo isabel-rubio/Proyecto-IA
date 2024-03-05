@@ -1,11 +1,11 @@
 # PROYECTO RIESGO DE INCUMPLIMIENTO CREDITICIO
 
 ## Miembros del grupo
-- Aura Molina, CC 1006510913, Ingeniería Industrial
+- Aura Molina, Ingeniería Industrial
 
-- Valeria González Gonzalez, CC 1000099730, Ingeniería Industrial
+- Valeria González Gonzalez, Ingeniería Industrial
 
-- Maryely Isabel Rubio de la Cruz, CC 1116803015, Ingeniería Industrial
+- Maryely Isabel Rubio de la Cruz, Ingeniería Industrial
 
 ## Datos
 Los datos del proyecto vienen de la competencia de Kaggle [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk/overview), y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos:
